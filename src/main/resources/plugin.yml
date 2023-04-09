@@ -1,0 +1,7 @@
+name: UnbreakableAnvils
+version: '${project.version}'
+main: com.mrzcookie.unbreakableanvils.UnbreakableAnvilsPlugin
+api-version: 1.13
+authors: [ MrZCookie ]
+description: A plugin used to make anvils unbreakable
+website: mrzcookie.com
